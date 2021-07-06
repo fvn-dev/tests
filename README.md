@@ -6,7 +6,7 @@ Dette er en hjemmeoppgave for fvn.no - vi tror du kommer langt nok på tre timer
 
 Redaktøren har fått en kjempeidé i hengekøya, og vi må kaste oss rundt og få opp en "Proof of Concept" (POC) på - en rask mobilvennlig oversikt over de siste ferienyhetene.
 
-1 vi kjører allerde nuxt, så lag en ny app med `npx create-nuxt-app`
+1 vi kjører allerede nuxt, så lag en ny app med `npx create-nuxt-app`
 
 _Så mange valg - hvilke tar du og hvorfor kan vi snakke om på intervju - lim inn oppsummeringen ✨  Generating Nuxt.js project i comitt eller readme_
 
